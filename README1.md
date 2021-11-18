@@ -7,7 +7,7 @@
         <meta name="author" content="@sandxru">
         <meta name="theme-color" content="#1755cf">
 
-        <title>It's Sandaru</title>
+        <title>It's Sathmika</title>
 
         <!-- FAV and TOUCH ICONS -->
         <link rel="shortcut icon" href="images/ico/favicon.ico">
