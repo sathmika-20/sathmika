@@ -1,2 +1,2 @@
-# sathmika
+# Sathmika
 First github respository
