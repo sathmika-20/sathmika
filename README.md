@@ -1,2 +1,0 @@
-# Sathmika
-First github respository
